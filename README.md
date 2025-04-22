@@ -1,6 +1,8 @@
 # 축구전력분석아카데미24-2기
 K리그, 국가대표, 분데스리가 경기 영상 분석과 데이터 분석을 진행함</br>
 구체적인 완성물은 파일 참고</br>
+아래 내용은 분석물 중 일부</br>
+
 ## 레버쿠젠 vs 뮌헨 경기 리포트 작성
 #### 1. 경기 개요
 <img width="582" alt="image" src="https://github.com/user-attachments/assets/2951c5f1-081f-40d2-a5a9-6c48af0876db" /> </br>
