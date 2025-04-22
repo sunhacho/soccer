@@ -12,3 +12,10 @@
 #### 2. 라인업
 <img width="845" alt="image" src="https://github.com/user-attachments/assets/f29aec72-3b46-47e2-b73e-14eb82e9a837" /></br>
 <img width="856" alt="image" src="https://github.com/user-attachments/assets/52c9c853-da57-4680-99dd-9c33f4776806" />
+
+#### 3. statistics
+<img width="937" alt="image" src="https://github.com/user-attachments/assets/e971aefa-d006-4fe3-b6c9-f60d6bee57b2" /></br>
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/1cfebdfb-5cf1-4216-97cc-f334192dfa5b" /></br>
+<img width="927" alt="image" src="https://github.com/user-attachments/assets/2671d539-72f3-46b2-88bb-aa7e772a4aed" /></br>
+<img width="923" alt="image" src="https://github.com/user-attachments/assets/62409fe9-9efb-4f2f-949e-5f30130d8c60" /></br>
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/1e8f6c40-5d9d-45c4-8076-89b24aec75ce" /></br>
